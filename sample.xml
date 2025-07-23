@@ -1,0 +1,95 @@
+<body>
+  <div type="section" n="1">
+    <head>
+      <w lemma="" pos="">DISPVTATIO</w>
+      <w lemma="" pos="">LXIII</w>.   
+    </head>
+    <head>
+      <w lemma="" pos="">De</w>
+      <w lemma="" pos="">pretio</w>
+      <w lemma="" pos="">rerum</w>
+      <w lemma="" pos="">vendibilium</w><pc type="period">.</pc>
+    </head>
+    <p xml:id="lattb.15148">
+      <s xml:id="lattb.15148.1">
+        <w lemma="materia" pos="n-s---fa-" ref="https://lila-erc.eu/data/id/lemma/13710">Materiam</w>
+        <w lemma="hic" pos="p-s---mg-" ref="https://lila-erc.eu/data/id/lemma/105455">huius</w>
+        <w lemma="contractus" pos="n-s---mg-" ref="https://lila-erc.eu/data/id/lemma/97663">contractus</w>
+        <w lemma="sum" pos="v--pna---" ref="https://lila-erc.eu/data/id/lemma/126689">esse</w>
+        <w lemma="dico" pos="v1pria---">diximus</w>
+        <w lemma="ex" pos="r--------">ex</w>
+        <w lemma="pars" pos="n-s---fb-">parte</w>
+        <w lemma="vendo" pos="v-spp-fg-">vendentis</w>
+        <w lemma="res" pos="n-s---fa-">rem</w>
+        <w lemma="vendibilis" pos="a-s---fa-">vendibilem</w><pc type="comma">,</pc>
+        <w lemma="sive" pos="c--------">seu</w>
+        <w lemma="merx" pos="n-s---fa-">mercem</w><pc type="comma">,</pc>
+        <w lemma="qui" pos="p-s---fg-">cuius</w>
+        <w lemma="dominium" pos="n-s---nn-">dominium</w>
+        <w lemma="in" pos="r--------">in</w>
+        <w lemma="emptor" pos="n-s---ma-">emptorem</w>
+        <w lemma="transfero" pos="v3spia---">transfert</w><pc type="semicolon">;</pc>
+        <w lemma="ex" pos="r--------">ex</w>
+        <w lemma="pars" pos="n-s---fb-">parte</w>
+        <w lemma="" pos="">vero</w>
+        <w lemma="emptor" pos="n-s---mg-">emptoris</w>
+        <w lemma="pretium" pos="n-s---nn-">pretium</w>
+        <w lemma="merx" pos="n-s---fg-">mercis</w><pc type="comma">,</pc>
+        <w lemma="qui" pos="p-s---ng-">cuius</w>
+        <w lemma="" pos="">dominium</w>
+        <w lemma="pariter" pos="d--------">pariter</w>
+        <w lemma="" pos="r--------">in</w>
+        <w lemma="venditor" pos="n-s---ma-">venditorem</w>
+        <w lemma="transfundo" pos="v3spia---">transfundit</w><pc type="colon">:</pc>
+        <w lemma="dico" pos="v1pria---">diximus</w>
+        <w lemma="de" pos="r--------">de</w>
+        <w lemma="merx" pos="n-s---fb-">merce</w><pc type="comma">,</pc>
+        <w lemma="sive" pos="c--------">seu</w>
+        <w lemma="res" pos="n-s---fb-">re</w>
+        <w lemma="vendibilis" pos="a-s---fb-">vendibili</w><pc type="comma">,</pc>
+        <w lemma="dico" pos="v1ppsa---">dicamus</w>
+        <w lemma="modo" pos="d--------">modo</w>
+        <w lemma="de" pos="r--------">de</w>
+        <w lemma="pretium" pos="n-s---nb-">pretio</w><pc type="semicolon">;</pc>
+        <w lemma="quia" pos="c--------">quia</w>
+        <w lemma="totus" pos="a-s---fn-">tota</w>
+        <w lemma="hic" pos="p-s---mg-">huius</w>
+        <w lemma="contractus" pos="n-s---mg-">contractus</w>
+        <w lemma="iustitia" pos="n-s---fn-">iustitia</w>
+        <w lemma="consisto" pos="v3spia---">consistit</w>
+        <w lemma="in" pos="r--------">in</w>
+        <w lemma="pretium" pos="n-s---nb-">pretio</w>
+        <w lemma="cum" pos="c--------">cum</w>
+        <w lemma="merx" pos="n-s---fb-">merce</w>
+        <w lemma="coaequo" pos="v-s-g-nb-">coaequando</w><pc type="period">.</pc>
+      </s>
+      <s xml:id="lattb.15148.2">
+        <w lemma="ita" pos="d--------">Ita</w>
+        <w lemma="ut" pos="d--------">ut</w>
+        <w lemma="valor" pos="n-s---mn-">valor</w>
+        <w lemma="merx" pos="n-s---fg-">mercis</w><pc type="comma">,</pc>
+        <w lemma="et" pos="c--------">et</w>
+        <w lemma="pretium" pos="n-s---ng-">pretii</w>
+        <w lemma="unus" pos="a-s---mn-">unus</w><pc type="comma">,</pc>
+        <w lemma="idem" pos="p-s---mn-">idemque</w>
+        <w lemma="sum" pos="v3spsa---">sit</w><pc type="period">.</pc>
+      </s>
+      <s xml:id="lattb.15148.3">
+        <w lemma="" pos="">Defudabit</w>
+        <w lemma="ergo" pos="d--------">ergo</w>
+        <w lemma="hic" pos="p-s---fg-">huius</w>
+        <w lemma="disputatio" pos="n-s---fg-">disputationis</w>
+        <w lemma="labor" pos="n-s---mn-">labor</w>
+        <w lemma="" pos="">hoc</w>
+        <w lemma="justus" pos="a-s---nb-">iusto</w>
+        <w lemma="pretium" pos="n-s---nb-">pretio</w>
+        <w lemma="explico" pos="v-s-g-nb-">explicando</w><pc type="comma">,</pc>
+        <w lemma="et" pos="c-------">et</w>
+        <w lemma="cum" pos="r--------">cum</w>
+        <w lemma="res" pos="n-s---fb-">re</w>
+        <w lemma="venalis" pos="a-s---fb-">venali</w>
+        <w lemma="coaequo" pos="v-s-g-nb-">coaequando</w><pc type="period">.</pc>
+      </s>
+    </p>
+  </div>
+</body>  
