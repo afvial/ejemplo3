@@ -12,19 +12,53 @@
     </head>
     <p xml:id="lattb.15148">
       <s xml:id="lattb.15148.1">
-        <w lemma="materia" pos="n-s---fa-" ref="https://lila-erc.eu/data/id/lemma/13710">Materiam</w>
-        <w lemma="hic" pos="p-s---mg-" ref="https://lila-erc.eu/data/id/lemma/105455">huius</w>
-        <w lemma="contractus" pos="n-s---mg-" ref="https://lila-erc.eu/data/id/lemma/97663">contractus</w>
-        <w lemma="sum" pos="v--pna---" ref="https://lila-erc.eu/data/id/lemma/126689">esse</w>
-        <w lemma="dico" pos="v1pria---">diximus</w>
-        <w lemma="ex" pos="r--------">ex</w>
-        <w lemma="pars" pos="n-s---fb-">parte</w>
-        <w lemma="vendo" pos="v-spp-fg-">vendentis</w>
-        <w lemma="res" pos="n-s---fa-">rem</w>
-        <w lemma="vendibilis" pos="a-s---fa-">vendibilem</w><pc type="comma">,</pc>
-        <w lemma="sive" pos="c--------">seu</w>
-        <w lemma="merx" pos="n-s---fa-">mercem</w><pc type="comma">,</pc>
-        <w lemma="qui" pos="p-s---fg-">cuius</w>
+        <w lemma="materia" pos="n-s---fa-"
+           ref="https://lila-erc.eu/data/id/lemma/111691">
+          <a href="https://lila-erc.eu/lodview/data/lexicalResources/LewisShort/id/LexicalSense/n28184.6">Materiam</a>
+        </w>
+        <w lemma="hic" pos="p-s---mg-"
+           ref="https://lila-erc.eu/data/id/lemma/105455">
+          <a href="https://lila-erc.eu/lodview/data/lexicalResources/LewisShort/id/LexicalSense/n20640.0">huius</a>
+        </w>
+        <w lemma="contractus" pos="n-s---mg-"
+           ref="https://lila-erc.eu/data/id/lemma/97663">
+          <a href="https://lila-erc.eu/lodview/data/lexicalResources/LewisShort/id/LexicalSense/n10868.2">contractus</a>
+        </w>
+        <w lemma="sum" pos="v--pna---"
+           ref="https://lila-erc.eu/data/id/lemma/126689">
+          <a href="">esse</a>
+        </w>
+        <w lemma="dico" pos="v1pria---"
+           ref="">
+          <a href="">diximus</a>
+        </w>
+        <w lemma="ex" pos="r--------"
+           ref="">
+          <a href="">ex</a>
+        </w>
+        <w lemma="pars" pos="n-s---fb-" ref="">
+          <a href="">parte</a>
+        </w>
+        <w lemma="vendo" pos="v-spp-fg-" ref="">
+          <a href="">vendentis</a>
+        </w>
+        <w lemma="res" pos="n-s---fa-" ref="">
+          <a href="">rem</a>
+        </w>
+        <w lemma="vendibilis" pos="a-s---fa-" ref="">
+          <a href="">vendibilem</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="sive" pos="c--------" ref="">
+          <a href="">seu</a>
+        </w>
+        <w lemma="merx" pos="n-s---fa-" ref="">
+          <a href="">mercem</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="qui" pos="p-s---fg-" ref="">
+          <a href="">cuius</a>
+        </w>
         <w lemma="dominium" pos="n-s---nn-">dominium</w>
         <w lemma="in" pos="r--------">in</w>
         <w lemma="emptor" pos="n-s---ma-">emptorem</w>

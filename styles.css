@@ -63,3 +63,13 @@ h3 {
 h4 {
     text-align: center;
 }
+
+a {
+  text-decoration: none; /* remove default underline */
+  border-bottom: 1px dotted transparent; /* reserve space but invisible by default */
+  cursor: pointer;
+}
+
+a:hover {
+  border-bottom-color: currentColor; /* show dotted underline on hover */
+}

@@ -26,7 +26,7 @@
   
   <xsl:template match="w">
     <span class="tooltip">
-      <a href="https://example.com/{@lemma}" target="_blank">
+      <a href="{a/@href}" target="_blank">
         <xsl:value-of select="."/>
       </a>
       <span class="tooltiptext">
