@@ -2,6 +2,182 @@
   <div type="section" n="1">
     <head>
       <w lemma="" pos="">DISPVTATIO</w>
+      <w lemma="" pos="">LXI</w>.   
+    </head>
+    <head>
+      <w lemma="" pos="">De</w>
+      <w lemma="" pos="">Natura</w><pc type="comma">,</pc>
+      <w lemma="" pos="">et</w>
+      <w lemma="" pos="">causis</w><pc type="comma">,</pc>
+      <w lemma="" pos="">Emptionis</w>
+      <w lemma="" pos="">et</w>
+      <w lemma="" pos="">Venditionis</w><pc type="period">.</pc>
+    </head>
+    <p xml:id="lattb.15464">
+      <s xml:id="lattb.15464.1">
+        <w lemma="postquam" pos="c--------" 
+           ref="http://lila-erc.eu/data/id/lemma/120753">
+          <a href="">Postquam</a>
+        </w>
+        <w lemma="de" pos="r--------" 
+           ref="http://lila-erc.eu/data/id/lemma/97932">
+          <a href="">de</a>
+        </w>
+        <w lemma="lucratiuus" pos="a-p---mb-" 
+           ref="http://lila-erc.eu/data/id/lemma/110875">
+          <a href="">lucratiuis</a>
+        </w>
+        <w lemma="contractus" pos="n-p---mb-" 
+           ref="https://lila-erc.eu/data/id/lemma/97663">
+          <a href="">contractibus</a>
+        </w>
+        <w lemma="in" pos="" 
+           ref="https://lila-erc.eu/data/id/lemma/106748">
+          <a href="">in</a>
+        </w>
+        <w lemma="secundus" pos="a-s---mb-" 
+           ref="https://lila-erc.eu/data/id/lemma/127502">
+          <a href="">secundo</a>
+        </w>
+        <w lemma="tomus" pos="n-s---mb-"
+           ref="">
+          <a href="">tomo</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">egimus</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">nempe</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">donationibus</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">commodato</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">mandato</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">deposito</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">pignore</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">et</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">hypotheca</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">et</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">huiusmodi</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">nostri</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">instituti</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">ratio</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">postulat</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">ut</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">de</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">constractibus</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">onerosis</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">tanquam</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">de</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">praecipua</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">et</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">magis</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">propria</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">et</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">a</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">nobis</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">intenta</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">parte</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">contractuum</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">in</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">hoc</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">tertio</a>
+        </w>
+        <pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">et</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">ultimo</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">tomo</a>
+        </w><pc type="comma">,</pc>
+        <w lemma="" pos="" ref="">
+          <a href="">Deo</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">adiuuante</a>
+        </w>
+        <w lemma="" pos="" ref="">
+          <a href="">disseramus</a>
+        </w>
+        <pc type="period">.</pc>
+      </s>
+    </p>
+  </div>
+  <div type="section" n="3">
+    <head>
+      <w lemma="" pos="">DISPVTATIO</w>
       <w lemma="" pos="">LXIII</w>.   
     </head>
     <head>
